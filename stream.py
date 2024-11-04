@@ -44,5 +44,5 @@ while True:
             preset='veryfast',
             shortest=None
         )
-        .run()
+        .run(quiet=True)
     )
